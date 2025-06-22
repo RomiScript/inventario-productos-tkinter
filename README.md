@@ -1,9 +1,9 @@
 #Inventario de productos con tkinter
-App de escritorio súper simple para agregar gestionar productos usando Python y Tkinter
+App de escritorio súper simple para agregar y gestionar productos usando Python y Tkinter
 #Funcionalidades:
 *Agregar productos con ID, nombre, precio y cantidad.
 *Eliminar productos.
-*Visuaizar productos
+*Visualizar productos
 *Validar, de forma muy básica.
 
 #Tecnologías:
